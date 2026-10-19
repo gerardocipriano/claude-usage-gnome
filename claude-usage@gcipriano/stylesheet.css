@@ -1,0 +1,7 @@
+.cu-box { margin: 0 12px; padding: 4px 10px; border-radius: 10px; background-color: rgba(255,255,255,0.06); spacing: 3px; }
+.cu-row { spacing: 6px; }
+.cu-key { font-size: 10px; font-weight: bold; color: #888; min-width: 26px; }
+.cu-track { width: 70px; height: 5px; border-radius: 3px; background-color: rgba(255,255,255,0.12); }
+.cu-fill { height: 5px; border-radius: 3px; }
+.cu-pct { font-size: 10px; font-weight: bold; color: #ddd; min-width: 30px; }
+.cu-till { font-size: 9px; color: #777; }

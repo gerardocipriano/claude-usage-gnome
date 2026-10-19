@@ -1,0 +1,7 @@
+{
+  "uuid": "claude-usage@gcipriano",
+  "name": "Claude Usage",
+  "description": "Claude Pro/Max usage (5h / 7d) in the Ubuntu dock",
+  "shell-version": ["50"],
+  "url": "https://github.com/gerardocipriano/claude-usage-gnome"
+}
